@@ -13,7 +13,7 @@ This is a short analysis looking for any possible distinction between sinkers an
 | Component | Description |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | [analysis.R](https://github.com/joshsalce/sinkers_vs_two_seams/blob/main/analysis.R)| R Script with main analysis involving MLB Statcast data and basic "stuff" model predictions |
-| writeup.pdf| Short writeup including important visuals, tables |
+| [writeup.pdf](https://github.com/joshsalce/sinkers_vs_two_seams/blob/main/writeup.pdf)| Short writeup including important visuals, tables |
 | [sql](https://github.com/joshsalce/sinkers_vs_two_seams/tree/main/sql)| Includes all relevant queries of MLB Statcast as part of my analysis | 
 | [Notebooks](https://github.com/joshsalce/sinkers_vs_two_seams/tree/main/Notebooks) | Includes all Jupyter Notebooks used for model training & predictions |
 | [Plots](https://github.com/joshsalce/sinkers_vs_two_seams/tree/main/Plots) | Includes all visuals created in [analysis.R](https://github.com/joshsalce/sinkers_vs_two_seams/blob/main/analysis.R) |
